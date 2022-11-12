@@ -1,0 +1,2 @@
+class FixCommentColumn < ApplicationRecord
+end
